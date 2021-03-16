@@ -1,0 +1,20 @@
+C:\Users\Бекзат\source\repos\WALKET\WALKET\bin\Debug\WALKET.exe.config
+C:\Users\Бекзат\source\repos\WALKET\WALKET\bin\Debug\WALKET.exe
+C:\Users\Бекзат\source\repos\WALKET\WALKET\bin\Debug\WALKET.pdb
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.csprojAssemblyReference.cache
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.Form1.resources
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.Properties.Resources.resources
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.csproj.GenerateResource.cache
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.csproj.CoreCompileInputs.cache
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.exe
+C:\Users\Бекзат\source\repos\WALKET\WALKET\obj\Debug\WALKET.pdb
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\bin\Debug\WALKET.exe.config
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\bin\Debug\WALKET.exe
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\bin\Debug\WALKET.pdb
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.csprojAssemblyReference.cache
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.Form1.resources
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.Properties.Resources.resources
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.csproj.GenerateResource.cache
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.csproj.CoreCompileInputs.cache
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.exe
+C:\Users\Бекзат\Desktop\Internet Exploгег\WAL\WALKET\WALKET\obj\Debug\WALKET.pdb
